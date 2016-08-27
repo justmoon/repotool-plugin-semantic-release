@@ -1,0 +1,27 @@
+{
+  "name": "repotool-plugin-semantic-release",
+  "version": "0.0.0",
+  "description": "Automatically set up semantic-release with repotool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justmoon/repotool-plugin-semantic-release.git"
+  },
+  "keywords": [
+    "semantic-release",
+    "semantic",
+    "versioning",
+    "npm",
+    "repotool",
+    "package"
+  ],
+  "author": "Stefan Thomas <justmoon@members.fsf.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmoon/repotool-plugin-semantic-release/issues"
+  },
+  "homepage": "https://github.com/justmoon/repotool-plugin-semantic-release#readme"
+}
